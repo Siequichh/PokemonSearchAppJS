@@ -22,10 +22,7 @@ This is a simple web application that allows users to search for Pokémon by nam
 4. If the Pokémon is not found or the input is empty, an error message will appear.
 
 ## Installation & Setup
-1. Clone the repository:
-   
-   git clone https://github.com/yourusername/pokemon-search-app.git
-   
+1. Clone the repository   
 2. Open `index.html` in a browser.
 
 ## File Structure
